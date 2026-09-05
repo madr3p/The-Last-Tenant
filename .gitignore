@@ -1,0 +1,37 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.plastic
+
+# Unity Asset Store tools
+/[Aa]ssets/AssetStoreTools*
+
+# Visual Studio / Rider / IDE files
+.vs/
+.idea/
+.gradle/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Unity generated solution/project files
+ExportedObj/
+.consulo/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Crash reports
+sysinfo.txt
+
+# Memory captures
+/[Mm]emoryCaptures/
